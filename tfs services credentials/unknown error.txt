@@ -1,0 +1,2 @@
+An error was raised by libgit2. Category = Unknown (Error).
+No error message has been provided by the native library
